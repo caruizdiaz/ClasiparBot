@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasiparBot", "ClasiparBot\ClasiparBot.csproj", "{1CFD7310-5C11-4412-A4C5-8943E41E133F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CFD7310-5C11-4412-A4C5-8943E41E133F}.Debug|x86.ActiveCfg = Debug|x86
+		{1CFD7310-5C11-4412-A4C5-8943E41E133F}.Debug|x86.Build.0 = Debug|x86
+		{1CFD7310-5C11-4412-A4C5-8943E41E133F}.Release|x86.ActiveCfg = Release|x86
+		{1CFD7310-5C11-4412-A4C5-8943E41E133F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ClasiparBot\ClasiparBot.csproj
+	EndGlobalSection
+EndGlobal

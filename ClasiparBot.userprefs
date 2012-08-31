@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClasiparBot/Main.cs" ctype="Workbench">
+    <Files>
+      <File FileName="ClasiparBot/Main.cs" Line="44" Column="32" />
+      <File FileName="ClasiparBot/Bot/ClasiBot.cs" Line="139" Column="67" />
+      <File FileName="ClasiparBot/Bot/BotParameters.cs" Line="69" Column="10" />
+      <File FileName="ClasiparBot/Bot/AnnouncementOperation.cs" Line="13" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="ClasiparBot" expanded="True">
+            <Node name="Bot" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
