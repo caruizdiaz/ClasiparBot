@@ -6,7 +6,7 @@ Bot for automatically refresh ads on Clasipar.com.
 How it works
 ============
 When you publish an ad on Clasipar.com, it sends you an email for managing your announcement.
-This is an example of the email you would receive:
+This is an example of the email you will receive:
 
 > Gracias por anunciar en Clasipar.com
 > 
