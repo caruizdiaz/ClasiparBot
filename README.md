@@ -27,7 +27,7 @@ With this email in hand, you will need to extract the following information:
 Having done this, you will have to create a text file which will be supplied to 
 the bot. Follow the below syntax:
 
-hash-id;your-email;your-ad;operation
+<i>hash-id;your-email;your-ad;operation</i>
 
 Example:
 
@@ -35,10 +35,10 @@ http://clasipar.paraguay.com/users/hash_login?hash=sha1_hashed_id;my@email.com;h
 
 Finally, pass the path-to-the-file to the bot:
 
-mono ClasiparBot.exe /home/carlos/clasipar.conf
+<i>mono ClasiparBot.exe /home/carlos/clasipar.conf</i>
 
 If the program will be running on Linux, you can setup a cron job for refreshing purpose.
 For example, if you want to refresh you ad everyday, at 9 am, you can go as follows:
 
-0 9 * * * mono ClasiparBot.exe /home/carlos/clasipar.conf > /tmp/output &
+<i>0 9 * * * mono ClasiparBot.exe /home/carlos/clasipar.conf > /tmp/output &<i>
 
