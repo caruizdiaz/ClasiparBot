@@ -37,7 +37,7 @@ Finally, pass the path-to-the-file to the bot:
 
 <i>mono ClasiparBot.exe /home/carlos/clasipar.conf</i>
 
-If the program will be running on Linux, you can setup a cron job for refreshing purpose.
+If the program will be running on Linux, you can setup a cron job for the refreshment.
 For example, if you want to refresh you ad everyday, at 9 am, you can go as follows:
 
 <i>0 9 * * * mono ClasiparBot.exe /home/carlos/clasipar.conf > /tmp/output &<i>
