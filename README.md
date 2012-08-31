@@ -1,7 +1,7 @@
 ClasiparBot
 ===========
 
-Bot for automatically refresh ads on Clasipar.com.
+Bot to automatically refresh ads on Clasipar.com.
 
 How it works
 ============
