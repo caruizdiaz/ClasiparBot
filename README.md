@@ -27,7 +27,7 @@ With this email in hand, you will need to extract the following information:
 Having done this, you will have to create a text file which will be supplied to 
 the bot. Follow the below syntax:
 
-<hash-id>;<your-email>;<your-ad>;<operation>
+hash-id;your-email;your-ad;operation
 
 Example:
 
